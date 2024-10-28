@@ -9,4 +9,11 @@ Master's student @ KAIST Robotics Program
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mildsky)](https://github.com/mildsky/github-readme-stats)
 
 [![mildsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=mildsky)](https://github.com/mildsky/github-readme-stats)
-+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/mildsky"
+  width="600"
+  height="300"
+/>
+</a>
